@@ -1,0 +1,1 @@
+export const deafultPicURL = "https://www.kindpng.com/picc/m/226-2261322_pink-human-icon-hd-png-download.png";
